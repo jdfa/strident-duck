@@ -3,10 +3,9 @@
 
 #include "stdafx.h"
 
-
+//changed text editor's settings
 int main()
-{
+  {
   int i = 0;
-    return 0;
-}
-
+  return 0;
+  }
